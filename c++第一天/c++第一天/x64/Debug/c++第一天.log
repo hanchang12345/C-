@@ -1,0 +1,3 @@
+﻿  内存四区.cpp
+D:\code\Cplusplus\c++第一天\c++第一天\内存四区.cpp(16): warning C4172: 返回局部变量或临时变量的地址: abc
+  c++第一天.vcxproj -> D:\code\Cplusplus\c++第一天\x64\Debug\c++第一天.exe
